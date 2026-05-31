@@ -60,7 +60,7 @@ By answering these questions, the business can improve sales performance, optimi
 | Tool | Purpose |
 |--------|----------|
 | Power BI | Data Visualization & Dashboard Development |
-| Microsoft Excel / CSV | Dataset Storage |
+| Microsoft Excel (CSV) | Dataset Storage |
 | DAX | KPI Calculations & Measures |
 | Power Query | Data Cleaning & Transformation |
 | Data Modeling | Relationship Building |
